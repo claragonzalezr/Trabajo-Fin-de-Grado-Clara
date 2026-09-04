@@ -1,3 +1,4 @@
 # Trabajo-Fin-de-Grado-Clara
 Código completo y datos utilizados para la realización del Trabajo Fin de Grado de Clara González Rosauro.
-Contiene dos carpetas con datos csv y el código del análisis en formato ipynb.
+
+El repositorio contiene dos carpetas con los archivos de datos en formato CSV y el cuaderno Jupyter (.ipynb) con el código del análisis.
